@@ -1,6 +1,12 @@
 # 🎧🌍 LangPod – Your Gateway to Global Fluency
 
-LangPod is a lightweight, Firebase-powered web application that curates the best language learning podcasts from Spotify. It helps learners explore and stay consistent in their language journey, anytime, anywhere — whether commuting, relaxing, or working out.
+![Platform](https://img.shields.io/badge/Platform-Web-blue.svg)
+![Tech](https://img.shields.io/badge/Backend-Firebase-orange.svg)
+![Language](https://img.shields.io/badge/Language-JavaScript-yellow.svg)
+![UI](https://img.shields.io/badge/UI-Bootstrap-green.svg)
+![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+
+LangPod is a lightweight, Firebase-powered web app that curates top language learning podcasts from Spotify. It helps learners stay consistent on their language journey, offering seamless access anytime, anywhere—whether commuting, relaxing, or working out. With a focus on convenience, LangPod supports steady progress toward fluency.
 
 ---
 
@@ -30,10 +36,27 @@ LangPod is a lightweight, Firebase-powered web application that curates the best
 
 ## 🛠️ Tech Stack
 
-- Frontend: HTML, CSS, Bootstrap, JavaScript  
-- Backend: Firebase Firestore  
-- Hosting: Firebase Hosting  
-- Tools: Firebase CLI
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript  
+- **Backend**: Firebase Firestore  
+- **Hosting**: Firebase Hosting  
+- **Tools**: Firebase CLI
+
+---
+
+## 📂 Project Structure
+
+```
+LangPod/
+└── public/
+    ├── app.js                     # Main JavaScript logic for fetching and displaying podcasts
+    ├── firebase-config.js         # Firebase configuration and initialization
+    ├── index.html                 # Main HTML file for the app's UI
+    ├── podcast-icon.png           # Icon for podcasts or app branding
+    ├── podcasts.json              # JSON file with podcast data for Firestore import
+    ├── styles.css                 # Custom CSS styles for the app
+└── .firebaserc                    # Firebase configuration file
+└── firebase.json                  # Firebase hosting configuration
+```
 
 ---
 
@@ -98,4 +121,4 @@ For queries or suggestions:
 
 ## 🌟 Show Your Support
 
-If you like this project, please consider giving it a ⭐ on GitHub!
+If you find this project interesting, please consider giving it a ⭐ on GitHub to show your support!
