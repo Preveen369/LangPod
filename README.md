@@ -8,6 +8,8 @@
 
 LangPod is a lightweight, Firebase-powered web app that curates top language learning podcasts from Spotify. It helps learners stay consistent on their language journey, offering seamless access anytime, anywhere—whether commuting, relaxing, or working out. LangPod supports steady progress toward fluency.
 
+🔗 **Project Demo**: <https://langpod-c36c6.firebaseapp.com/>
+
 ---
 
 ## 🚀 Features
@@ -84,7 +86,7 @@ firebase init
 firebase deploy
 ```
 
-🌐 Access your app live at: https://langpod-c36c6.firebaseapp.com/
+🌐 Access your app live at: <https://langpod-c36c6.firebaseapp.com/>
 
 ---
 
