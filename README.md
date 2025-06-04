@@ -84,7 +84,7 @@ firebase init
 firebase deploy
 ```
 
-🌐 Access your app live at: `https://your-project-id.web.app`
+🌐 Access your app live at: https://langpod-c36c6.firebaseapp.com/
 
 ---
 
