@@ -6,7 +6,7 @@
 ![UI](https://img.shields.io/badge/UI-Bootstrap-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
-LangPod is a lightweight, Firebase-powered web app that curates top language learning podcasts from Spotify. It helps learners stay consistent on their language journey, offering seamless access anytime, anywhere—whether commuting, relaxing, or working out. With a focus on convenience, LangPod supports steady progress toward fluency.
+LangPod is a lightweight, Firebase-powered web app that curates top language learning podcasts from Spotify. It helps learners stay consistent on their language journey, offering seamless access anytime, anywhere—whether commuting, relaxing, or working out. LangPod supports steady progress toward fluency.
 
 ---
 
